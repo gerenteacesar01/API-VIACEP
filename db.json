@@ -1,0 +1,21 @@
+{
+    "ceps": [
+      {
+        "id":1,
+        "cep": "12345-678",
+        "logradouro": "Rua Juruá",
+        "bairro": "Piedade",
+        "cidade": "Rio de Janeiro",
+        "estado": "Rj"
+      },
+      {
+        "id":2,
+        "cep": "98765-432",
+        "logradouro": "Avenida Teste 456",
+        "bairro": " Campo Limpo",
+        "cidade": "São Paulo",
+        "estado": "SP"
+      }
+    ]
+  }
+  
